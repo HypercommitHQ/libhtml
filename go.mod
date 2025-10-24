@@ -1,3 +1,3 @@
-module github.com/hypercodehq/libhtml
+module github.com/hypercommithq/libhtml
 
 go 1.23
